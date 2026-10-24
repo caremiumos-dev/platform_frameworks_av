@@ -160,6 +160,7 @@ cc_library_shared {
     },
 }
 
+
 subdirs = [
     "codecs/*",
     "colorconversion",
@@ -173,7 +174,6 @@ subdirs = [
     "mpeg2ts",
     "omx",
     "rtsp",
-    "tests",
     "timedtext",
     "webm",
     "wifi-display",
